@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PC-FX")(type "KiCad")(uri "${KIPRJMOD}/Libs/PC-FX.kicad_sym")(options "")(descr ""))
+)
