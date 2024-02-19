@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="PC-FX_POTS.svg"
+   inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/PC-FX_POTS.png"
+   inkscape:export-xdpi="8818.3701"
+   inkscape:export-ydpi="8818.3701"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.31970215"
-     inkscape:cx="50.046582"
-     inkscape:cy="-208.00611"
+     inkscape:cx="68.814051"
+     inkscape:cy="-120.42459"
      inkscape:window-width="2560"
      inkscape:window-height="1403"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g16923-8-10-6-3" />
   <defs
      id="defs2">
     <marker
@@ -157,14 +160,17 @@
     <g
        id="g16923-8-0"
        inkscape:label="VR106"
-       transform="translate(-37.246851,144.32102)">
+       transform="translate(-37.246851,144.32102)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <rect
          style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect858-1-5"
-         width="35.55862"
-         height="44.882973"
-         x="-25.673853"
-         y="-115.46765"
+         width="35.143738"
+         height="47.985733"
+         x="-25.827032"
+         y="-110.29558"
          inkscape:label="rect858"
          ry="0" />
       <text
@@ -183,13 +189,16 @@
            y="25.546736">FADJ</tspan></text>
       <path
          style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M -10.427279,-9.221865 -25.673853,-70.584679"
+         d="m -10.427279,-9.221865 -15.399753,-53.08798"
          id="path16238-03-0"
          sodipodi:nodetypes="cc" />
     </g>
     <g
        id="g16923"
-       inkscape:label="VR105">
+       inkscape:label="VR105"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <rect
          style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect858"
@@ -226,7 +235,10 @@
     <g
        id="g16923-2"
        inkscape:label="VR104"
-       transform="translate(44.245006)">
+       transform="translate(44.245006)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <rect
          style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect858-8"
@@ -259,7 +271,10 @@
     <g
        id="g16923-0"
        inkscape:label="VR103"
-       transform="translate(88.490012)">
+       transform="translate(88.490012)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <rect
          style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect858-6"
@@ -296,7 +311,10 @@
     <g
        id="g16923-8"
        inkscape:label="VR102"
-       transform="translate(132.73502)">
+       transform="translate(132.73502)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <rect
          style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect858-1"
@@ -329,7 +347,10 @@
     <g
        id="g16923-8-1"
        inkscape:label="VR101"
-       transform="translate(26.603727,-104.7463)">
+       transform="translate(26.603727,-104.7463)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <rect
          style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect858-1-9"
@@ -388,7 +409,10 @@
     </g>
     <g
        id="g31199-8"
-       transform="translate(212.87871,-2.3428299)">
+       transform="translate(212.87871,-2.3428299)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <path
          style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-7)"
          d="m 11.926981,-240.82081 v -36.61118"
@@ -406,7 +430,10 @@
            y="-261.68207">SLED</tspan></text>
     </g>
     <g
-       id="g31199">
+       id="g31199"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701">
       <path
          style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
          d="m 11.926981,-240.82081 v -36.61118"
@@ -431,7 +458,11 @@
     <g
        id="g16923-8-10"
        inkscape:label="CN102_P1"
-       transform="translate(280.59766,-19.945599)">
+       transform="translate(280.59766,-19.945599)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701"
+       inkscape:groupmode="layer">
       <image
          width="199.96227"
          height="152.5004"
@@ -464,6 +495,101 @@
          d="m 207.42349,-91.986538 -31.50942,-0.440222 -21.86277,-39.94786 -246.985287,1.61747 -70.859893,-34.35473"
          id="path16238-03-5"
          sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g16923-8-10-6"
+       inkscape:label="TP140"
+       transform="translate(-230.87643,162.68935)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701"
+       style="display:inline">
+      <rect
+         style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect858-1-51-5"
+         width="23.069962"
+         height="17.112953"
+         x="160.868"
+         y="-147.72557"
+         inkscape:label="rect858"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-265.23459"
+         y="-186.87666"
+         id="text5859-3-1-8"><tspan
+           sodipodi:role="line"
+           id="tspan18884-8-6"
+           x="-265.23459"
+           y="-186.87666">TP140 VCKI</tspan><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-169.23779"
+           id="tspan3279">Trim VR106 to read 16.9344MHz</tspan><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-151.59891"
+           id="tspan3281">following guidance from </tspan><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-133.96004"
+           id="tspan3283">CXD2500Q Datasheet page 5</tspan></text>
+      <path
+         style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.868,-147.72557 -26.43366,-25.64492 -167.095931,0.0748"
+         id="path16238-03-5-2"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g16923-8-10-6-3"
+       inkscape:label="TP140"
+       transform="translate(297.10466,264.80528)"
+       inkscape:export-filename="/home/regis/kicad/PC-FX_POTS/Drawings/g16923-8-0.png"
+       inkscape:export-xdpi="8818.3701"
+       inkscape:export-ydpi="8818.3701"
+       style="display:inline"
+       inkscape:groupmode="layer">
+      <rect
+         style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect858-1-51-5-1"
+         width="16.605106"
+         height="34.036957"
+         x="-325.03479"
+         y="-230.77983"
+         inkscape:label="rect858"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-265.23459"
+         y="-186.87666"
+         id="text5859-3-1-8-1"><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-186.87666"
+           id="tspan3279-3">TP101 reads about 0.7V</tspan><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-169.23779"
+           id="tspan20118">on the board I tested</tspan><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-151.59891"
+           id="tspan20120">when correct frequency</tspan><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-133.96004"
+           id="tspan20122">is obtained </tspan><tspan
+           sodipodi:role="line"
+           x="-265.23459"
+           y="-116.32116"
+           id="tspan3283-0" /></text>
+      <path
+         style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -270.26847,-184.13965 -31.87211,-0.003 -6.28911,-12.60069"
+         id="path16238-03-5-2-3"
+         sodipodi:nodetypes="ccc" />
     </g>
   </g>
 </svg>
